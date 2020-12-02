@@ -8,7 +8,7 @@ elif(domanda == "si" or domanda == "Si"):
    print("Ok, allora scrivi una parola")
 else:
   print("Scusa non ho capito")
-  exit
+  exit()
   
 a = input()
 conta = 0
